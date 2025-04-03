@@ -68,7 +68,6 @@ Our mission is to build seamless, efficient, and visually stunning digital solut
 ## 📞 Let's Connect!
 📍 **Website:** [Shadow Studio Agency](https://shadowstudio-no1.github.io/Office-Website/)  
 📧 **Email:** [shadowstudio412@gmail.com](mailto:shadowstudio412@gmail.com)  
-📱 **Phone:** +91 6205012057  
 💬 **WhatsApp:** [Chat Now](https://wa.me/916205012057)  
 🚀 **Follow Us on GitHub:** [@shadowstudio-no1](https://github.com/shadowstudio-no1)
 
