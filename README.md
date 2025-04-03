@@ -1,7 +1,7 @@
 # 🚀 Shadow Studio Agency - GitHub Profile
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ShadowStudio-no1/Office-Website/refs/heads/main/res/images/hosting/Screenshot%202025-04-03%20215110.png" width="80%" />
+
 </p>
 
 <p align="center">
